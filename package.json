@@ -1,7 +1,7 @@
 {	
 	"author": "M.V.P.",
 	"description": "Node JS practice",
-	"keywords": [ "freeCodeCamp", "Node JS" ],
+	"keywords": [ "freecodecamp", "Node JS" ],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
